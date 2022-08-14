@@ -1,0 +1,15 @@
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\bin\Debug\net6.0\Задача 41.exe
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\bin\Debug\net6.0\Задача 41.deps.json
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\bin\Debug\net6.0\Задача 41.runtimeconfig.json
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\bin\Debug\net6.0\Задача 41.dll
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\bin\Debug\net6.0\Задача 41.pdb
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.dll
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\refint\Задача 41.dll
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.pdb
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\Задача 41.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Документы\Домашнее задание 2\Задача 41\obj\Debug\net6.0\ref\Задача 41.dll
